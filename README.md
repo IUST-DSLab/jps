@@ -1,2 +1,2 @@
-# jps
+# pojos
 Policy-based Job Scheduler
